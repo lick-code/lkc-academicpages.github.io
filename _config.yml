@@ -24,13 +24,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Kangcheng Li"
+  pronouns         : "he/him"# example: "she/her"  
+  bio              : "Undergraduate student in Artificial Intelligence at Shandong University."
+  location         : "Shandong, China"
+  employer         : "Shandong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kangchengli863@gmail.com"
+  email_university : "202300130044@mail.sdu.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +52,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "lick-code"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
